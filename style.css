@@ -1,0 +1,33 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: none;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#botao {
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+}
+
+#typedOutput {
+    font-size: 30px;
+
+}
